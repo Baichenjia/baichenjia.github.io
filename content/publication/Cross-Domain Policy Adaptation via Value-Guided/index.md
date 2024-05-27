@@ -2,7 +2,7 @@
 title: "Cross-Domain Policy Adaptation via Value-Guided Data Filtering."
 authors:
 - Kang Xu
-- Chenjia Bai
+- Chenjia Bai*
 - Xiaoteng Ma
 - Dong Wang
 - Bin Zhao
@@ -10,11 +10,13 @@ authors:
 - Xuelong Li
 - Wei Li
 author_notes:
-date: "2024-03-23T00:00:00Z"
+date: "2023-03-23T00:00:00Z"
 doi: ""
 
+weight: 16
+
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-03-23T00:00:00Z"
+publishDate: "2023-03-23T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

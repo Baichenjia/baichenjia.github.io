@@ -2,7 +2,7 @@
 title: "On the Value of Myopic Behavior in Policy Reuse."
 authors:
 - Kang Xu
-- Chenjia Bai
+- Chenjia Bai*
 - Shuang Qiu
 - Haoran He
 - Bin Zhao
@@ -10,16 +10,18 @@ authors:
 - Wei Li
 - Xuelong Li
 author_notes:
-date: "2024-03-22T00:00:00Z"
+date: "2023-08-22T00:00:00Z"
 doi: ""
 
+weight: 17
+
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-03-22T00:00:00Z"
+publishDate: "2023-08-22T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["under-review"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Pattern Analysis and Machine Intelligence. 2023 (under review)*"

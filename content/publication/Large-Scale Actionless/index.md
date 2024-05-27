@@ -2,7 +2,7 @@
 title: "Large-Scale Actionless Video Pre-Training via Discrete Diffusion for Efficient Policy Learning."
 authors:
 - Haoran He
-- Chenjia Bai
+- Chenjia Bai*
 - Ling Pan
 - Weinan Zhang
 - Bin Zhao
@@ -11,13 +11,15 @@ author_notes:
 date: "2024-02-22T00:00:00Z"
 doi: ""
 
+weight: 4
+
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-02-22T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["under-review"]
 
 # Publication name and optional abbreviated publication name.
 publication: "under review"

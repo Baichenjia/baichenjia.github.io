@@ -2,7 +2,7 @@
 title: "Contrastive Representation for Data Filtering in Cross-Domain Offline Reinforcement Learning."
 authors:
 - Xiaoyu Wen
-- Chenjia Bai
+- Chenjia Bai*
 - Kang Xu
 - Xudong Yu
 - Yang Zhang
@@ -11,6 +11,8 @@ authors:
 author_notes:
 date: "2024-05-10T00:00:00Z"
 doi: ""
+
+weight: 7
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-05-10T00:00:00Z"

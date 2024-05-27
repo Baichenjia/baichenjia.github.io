@@ -4,19 +4,21 @@ authors:
 - Xiaoyu Wen
 - Xudong Yu
 - Rui Yang
-- Chenjia Bai
+- Chenjia Bai*
 - Zhen Wang
 author_notes:
-date: "2024-03-25T00:00:00Z"
+date: "2023-08-25T00:00:00Z"
 doi: ""
 
+weight: 14
+
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-03-25T00:00:00Z"
+publishDate: "2023-08-25T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["under-review"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Artificial Intelligence Research (under review)*, 2023"

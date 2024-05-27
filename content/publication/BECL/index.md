@@ -2,7 +2,7 @@
 title: "Behavior Contrastive Learning for Unsupervised Skill Discovery. "
 authors:
 - Rushuai Yang
-- Chenjia Bai
+- Chenjia Bai*
 - Hongyi Guo
 - Siyuan Li
 - Bin Zhao
@@ -10,11 +10,13 @@ authors:
 - Peng Liu
 - Xuelong Li
 author_notes:
-date: "2024-03-19T00:00:00Z"
+date: "2023-03-19T00:00:00Z"
 doi: ""
 
+weight: 19
+
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-03-19T00:00:00Z"
+publishDate: "2023-03-19T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -22,7 +24,7 @@ publishDate: "2024-03-19T00:00:00Z"
 publication_types: ["conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *Neural Information Processing Systems (**NeurIPS**)*, 2023"
+publication: "In *International Conference on Machine Learning (**ICML**)*, 2023"
 publication_short: ""
 
 abstract: "In reinforcement learning, unsupervised skill discovery aims to learn diverse skills without extrinsic rewards. Previous methods discover skills by maximizing the mutual information (MI) between states and skills. However, such an MI objective tends to learn simple and static skills and may hinder exploration. In this paper, we propose a novel unsupervised skill discovery method through contrastive learning among behaviors, which makes the agent produce similar behaviors for the same skill and diverse behaviors for different skills. Under mild assumptions, our objective maximizes the MI between different behaviors based on the same skill, which serves as an upper bound of the previous MI objective. Meanwhile, our method implicitly increases the state entropy to obtain better state coverage. We evaluate our method on challenging mazes and continuous control tasks. The results show that our method generates diverse and far-reaching skills, and also obtains competitive performance in downstream tasks compared to the state-of-the-art methods."

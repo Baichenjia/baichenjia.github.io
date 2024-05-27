@@ -2,7 +2,7 @@
 title: "Robust Quadrupedal Locomotion via Risk-Averse Policy Learning."
 authors:
 - Jiyuan Shi
-- Chenjia Bai
+- Chenjia Bai*
 - Haoran He
 - Lei Han
 - Dong Wang
@@ -13,6 +13,8 @@ authors:
 author_notes:
 date: "2024-03-27T00:00:00Z"
 doi: ""
+
+weight: 12
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-03-27T00:00:00Z"

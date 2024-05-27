@@ -2,7 +2,7 @@
 title: "Regularized Conditional Diffusion Model for Multi-Task Preference Alignment."
 authors:
 - Xudong Yu
-- Chenjia Bai
+- Chenjia Bai*
 - Haoran He
 - Changhong Wang
 - Xuelong Li
@@ -10,13 +10,15 @@ author_notes:
 date: "2024-04-07T00:00:00Z"
 doi: ""
 
+weight: 3
+
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-04-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["under-review"]
 
 # Publication name and optional abbreviated publication name.
 publication: "under review"

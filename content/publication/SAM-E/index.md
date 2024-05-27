@@ -2,7 +2,7 @@
 title: "SAM-E: Leveraging Visual Foundation Model with Sequence Imitation for Embodied Manipulation."
 authors:
 - Junjie Zhang
-- Chenjia Bai
+- Chenjia Bai*
 - Haoran He
 - Zhigang Wang
 - Bin Zhao
@@ -11,6 +11,8 @@ authors:
 author_notes:
 date: "2024-05-10T00:00:00Z"
 doi: ""
+
+weight: 8
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-05-10T00:00:00Z"

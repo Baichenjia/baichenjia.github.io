@@ -9,6 +9,8 @@ author_notes:
 date: "2019-03-10T00:00:00Z"
 doi: ""
 
+weight: 34
+
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-03-10T00:00:00Z"
 

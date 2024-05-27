@@ -2,14 +2,16 @@
 title: "Skill Matters: Dynamic Skill Learning for Multi-Agent Cooperative Reinforcement Learning."
 authors:
 - Tong Li
-- Chenjia Bai
+- Chenjia Bai*
 - Kang Xu
 - Chen Chu
 - Peican Zhu
-- Zhen Wang
+- Zhen Wang*
 author_notes:
 date: "2024-03-28T00:00:00Z"
 doi: ""
+
+weight: 11
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-03-28T00:00:00Z"
@@ -17,7 +19,7 @@ publishDate: "2024-03-28T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["under-review"]
 
 # Publication name and optional abbreviated publication name.
 publication: '*Neural Networks (under review)*, 2024'

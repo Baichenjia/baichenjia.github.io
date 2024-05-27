@@ -2,16 +2,18 @@
 title: "Diverse Randomized Value Functions: A Provably Pessimistic Approach for Offline Reinforcement Learning."
 authors:
 - Xudong Yu
-- Chenjia Bai
+- Chenjia Bai*
 - Hongyi Guo
-- Changhong Wang
+- Changhong Wang*
 - Zhen Wang
 author_notes:
-date: "2024-03-18T00:00:00Z"
+date: "2023-03-18T00:00:00Z"
 doi: ""
 
+weight: 20
+
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-03-18T00:00:00Z"
+publishDate: "2023-03-18T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

@@ -111,4 +111,6 @@ highlight_name: true
 ---
 
 I am a Researcher at Shanghai AI Laboratory, working for AI-diven embodied agents and large-scale decision-making systems, directed by Prof. [Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=zh-CN). My research mainly focuses on deep **Reinforcement Learning** (RL) and **Embodied AI**, including diffusion/transformer embodied system, Preference Learning, offline RL, robust RL, efficient exploration, representation learning, and multi-agent system. I holds a Ph.D. degree in Computer Science from Harbin Institute of Technology (HIT), advised by Prof. [Peng Liu](http://pr-ai.hit.edu.cn/2018/0505/c10408a207376/page.htm).
+<br>
+I am fortunate to have been collaborated with many fantastic researchers. I was a visiting student at [University of Toronto](https://www.utoronto.ca/) and [Vector Institute](https://vectorinstitute.ai/), working with Prof. [Animesh Garg](http://animesh.garg.tech/). I also used to be an intern at [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home) (advised by Prof. [Jianye Hao](https://scholar.google.com/citations?user=FCJVUYgAAAAJ&hl=zh-CN)), [Tencent Robotics X](https://ai.tencent.com/ailab/zh/index) (advised by Dr. [Lei Han](https://leihan.org/)), and Alibaba. I received my Bachelor's degree and Master's degree in Computer Science from HIT.
 {style="text-align: justify;"}

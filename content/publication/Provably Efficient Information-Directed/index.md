@@ -4,11 +4,13 @@ authors:
 - Qiaosheng Zhang
 - Chenjia Bai
 - Shuyu Hu
-- Zhen Wang
-- Xuelong Li
+- Zhen Wang*
+- Xuelong Li*
 author_notes:
 date: "2024-04-30T00:00:00Z"
 doi: ""
+
+weight: 2
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-04-30T00:00:00Z"
@@ -16,7 +18,7 @@ publishDate: "2024-04-30T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["under-review"]
 
 # Publication name and optional abbreviated publication name.
 publication: "under review"

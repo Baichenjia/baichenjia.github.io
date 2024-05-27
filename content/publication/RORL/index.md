@@ -1,18 +1,20 @@
 ---
 title: "RORL: Robust Offline Reinforcement Learning via Conservative Smoothing."
 authors:
-- Rui Yang
-- Chenjia Bai
+- Rui Yang*
+- Chenjia Bai*
 - Xiaoteng Ma
 - Zhaoran Wang
 - Chongjie Zhang
 - Lei Han
 author_notes:
-date: "2024-03-17T00:00:00Z"
+date: "2022-03-17T00:00:00Z"
 doi: ""
 
+weight: 22
+
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-03-17T00:00:00Z"
+publishDate: "2022-03-17T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

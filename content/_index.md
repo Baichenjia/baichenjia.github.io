@@ -55,34 +55,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Intern Algorithm Engineer
-          company: Tencent Robotics X
+        - title: Researcher
+          company: Shanghai AI Laboratory
           company_url: ''
           company_logo: ''
           location: China
-          date_start: '2020-11-01'
-          date_end: '2021-03-01'
-        - title: Intern Algorithm Engineer
-          company: Huawei Noah's Ark Lab
-          company_url: ''
-          company_logo: ''
-          location: China
-          date_start: '2020-06-01'
-          date_end: '2020-09-01'
-        - title: Intern Algorithm Engineer
-          company: Alibaba
-          company_url: ''
-          company_logo: ''
-          location: China
-          date_start: '2016-06-01'
-          date_end: '2016-09-01'
-        - title: Visiting Student
+          date_start: '2022-11-01'
+          date_end: ''
+        - title: Visiting PhD Student
           company: University of Toronto and Vector Institute
           company_url: ''
           company_logo: ''
           location: Canada
-          date_start: '2015-01-01'
-          date_end: '2016-01-01'
+          date_start: '2021-06-01'
+          date_end: '2022-09-01'
+        - title: Phd Student
+          company: Harbin Institute of Technology
+          company_url: ''
+          company_logo: ''
+          location: China
+          date_start: '2017-06-01'
+          date_end: '2022-09-01'
     design:
       columns: '2'
   - block: collection
@@ -169,6 +162,7 @@ sections:
     content:
       title: Publications
       text: |-
+        <div text-align=center><font size=3px>"*" denotes corresponding author</font></div>
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
@@ -177,6 +171,8 @@ sections:
           - publication
         exclude_featured: false
       count: 0
+      sort_by: 'weight'
+      sort_ascending: true
     design:
       columns: '1'
       view: compact
