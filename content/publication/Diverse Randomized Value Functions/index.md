@@ -27,7 +27,7 @@ publication_short: ""
 abstract: "Offline Reinforcement Learning (RL) faces distributional shift and unreliable value estimation, especially for out-of-distribution (OOD) actions. To address this, existing uncertainty-based methods penalize the value function with uncertainty quantification and demand numerous ensemble networks, posing computational challenges and suboptimal outcomes. In this paper, we introduce a novel strategy employing diverse randomized value functions to estimate the posterior distribution of Q-values. It provides robust uncertainty quantification and estimates lower confidence bounds (LCB) of Q-values. By applying moderate value penalties for OOD actions, our method fosters a provably pessimistic approach. We also emphasize on diversity within randomized value functions and enhance efficiency by introducing a diversity regularization method, reducing the requisite number of networks. These modules lead to reliable value estimation and efficient policy learning from offline data. Theoretical analysis shows that our method recovers the provably efficient LCB-penalty under linear MDP assumptions. Extensive empirical results also demonstrate that our proposed method significantly outperforms baseline methods in terms of performance and parametric efficiency."  
 
 # Summary. An optional shortened abstract.
-summary: "In this paper, we introduce a novel strategy employing diverse randomized value functions to estimate the posterior distribution of Q-values."
+summary: "We introduce a novel strategy employing diverse randomized value functions to estimate the posterior distribution of Q-values."
 
 tags: []
   

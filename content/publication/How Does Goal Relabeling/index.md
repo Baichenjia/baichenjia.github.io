@@ -27,7 +27,7 @@ abstract: "Hindsight experience replay and goal relabeling are successful in rei
   
 # Summary. An optional shortened abstract.
 
-summary: In this paper, we construct an example to show the information-theoretical improvement in sample efficiency achieved by goal relabeling and develop an RL algorithm called _GOALIVE_.
+summary: We construct an example to show the information-theoretical improvement in sample efficiency achieved by goal relabeling and develop an RL algorithm called _GOALIVE_.
 
 tags: []
   

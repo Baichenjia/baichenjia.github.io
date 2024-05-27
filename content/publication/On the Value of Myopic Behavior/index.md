@@ -30,7 +30,7 @@ publication_short: ""
 abstract: Leveraging learned strategies in unfamiliar scenarios is fundamental to human intelligence. In reinforcement learning, rationally reusing the policies acquired from other tasks or human experts is critical for tackling problems that are difficult to learn from scratch. In this work, we present a framework called Selective Myopic bEhavior Control~(SMEC), which results from the insight that the short-term behaviors of prior policies are sharable across tasks. By evaluating the behaviors of prior policies via a hybrid value function architecture, SMEC adaptively aggregates the sharable short-term behaviors of prior policies and the long-term behaviors of the task policy, leading to coordinated decisions. Empirical results on a collection of manipulation and locomotion tasks demonstrate that SMEC outperforms existing methods, and validate the ability of SMEC to leverage related prior policies.
 
 # Summary. An optional shortened abstract.
-summary: In this work, we present a framework called Selective Myopic bEhavior Control~(SMEC), which results from the insight that the short-term behaviors of prior policies are sharable across tasks.
+summary: We present a framework called Selective Myopic bEhavior Control~(SMEC), which results from the insight that the short-term behaviors of prior policies are sharable across tasks.
 
 tags: []
   

@@ -30,7 +30,7 @@ abstract: Acquiring a multi-task imitation policy in 3D manipulation poses chall
 
 # Summary. An optional shortened abstract.
 
-summary: In this paper, we propose SAM-E, a novel architecture for robot manipulation by leveraging a vision-foundation model for generalizable scene understanding and sequence imitation for long-term action reasoning.
+summary: We propose SAM-E, a novel architecture for robot manipulation by leveraging a vision-foundation model for generalizable scene understanding and sequence imitation for long-term action reasoning.
 
 tags: []
   

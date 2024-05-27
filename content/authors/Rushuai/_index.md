@@ -50,10 +50,10 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=TiHUw0UAAAAJ&hl=zh-CN
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to `static/files/resume.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 

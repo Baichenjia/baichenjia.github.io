@@ -42,42 +42,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: experience
-    id: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Researcher
-          company: Shanghai AI Laboratory
-          company_url: ''
-          company_logo: ''
-          location: China
-          date_start: '2022-11-01'
-          date_end: ''
-        - title: Visiting PhD Student
-          company: University of Toronto and Vector Institute
-          company_url: ''
-          company_logo: ''
-          location: Canada
-          date_start: '2021-06-01'
-          date_end: '2022-09-01'
-        - title: Phd Student
-          company: Harbin Institute of Technology
-          company_url: ''
-          company_logo: ''
-          location: China
-          date_start: '2017-06-01'
-          date_end: '2022-09-01'
-    design:
-      columns: '2'
   - block: collection
     id: book
     content:
@@ -86,7 +50,7 @@ sections:
         folders:
           - book
     design:
-      columns: '2'
+      columns: '1'
       view: compact
 #  - block: accomplishments
 #    content:
@@ -162,7 +126,7 @@ sections:
     content:
       title: Publications
       text: |-
-        <div text-align=center><font size=3px>"*" denotes corresponding author</font></div>
+        <div text-align=center><font size=3px>"✉" denotes corresponding author</font></div>
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
@@ -204,22 +168,53 @@ sections:
         - <font size=4rem>Journal Reviewer: IEEE Trans. Cybernetics, IEEE Trans. TNNLS, IEEE Trans. TETCI, IEEE Trans. Intelligent Vehicles</font>
     design:
       columns: '2'
-  - block: contact
-    id: contact
+  - block: experience
+    id: experience
     content:
-      title: Contact
-      subtitle:
-      text: |-
-          <h3>Internship chances:</h3>
-          <font size=4.5rem>
-          Our group is looking for highly-motivated Interns on board Reinforcement Learning research. We are also interested in RL applications including Robot Arm and Quadruped. Please drop me an email if you are interested in.
-          <br>
-          Email: <u>baichenjia (at) pjlab.org.cn</u> &nbsp; & &nbsp;  <u>baichenjia255 (at) gmail.com</u>
-          </font>
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
+      title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      items:
+        - title: Researcher
+          company: Shanghai AI Laboratory
+          company_url: ''
+          company_logo: ''
+          location: China
+          date_start: '2022-11-01'
+          date_end: ''
+        - title: Visiting PhD Student
+          company: University of Toronto
+          company_url: ''
+          company_logo: ''
+          location: Canada
+          date_start: '2021-06-01'
+          date_end: '2022-09-01'
+        - title: Phd Student
+          company: Harbin Institute of Technology
+          company_url: ''
+          company_logo: ''
+          location: China
+          date_start: '2017-06-01'
+          date_end: '2022-09-01'
     design:
       columns: '2'
+#  - block: contact
+#    id: contact
+#    content:
+#      title: Contact
+#      subtitle:
+#      text: |-
+#          <h3>Internship chances:</h3>
+#          <font size=4.5rem>
+#          Our group is looking for highly-motivated Interns on board Reinforcement Learning research. We are also interested in RL applications including Robot Arm and Quadruped. Please drop me an email if you are interested in.
+#          <br>
+#          Email: <u>baichenjia (at) pjlab.org.cn</u> &nbsp; & &nbsp;  <u>baichenjia255 (at) gmail.com</u>
+#          </font>
+#      # Choose a map provider in `params.yaml` to show a map from these coordinates
+#      # Automatically link email and phone or display as text?
+#      autolink: true
+#      # Email form provider
+#    design:
+#      columns: '2'
 ---

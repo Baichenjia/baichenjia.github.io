@@ -9,19 +9,34 @@
 {{- if gt $index 0 }}, {{ end -}}
 <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
       {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
+      {{- $authorName := .LinkTitle }}
+      {{- $plainName := $authorName }}
+      {{- if eq (substr $authorName (sub (len $authorName) 1) 1) "*" }}
+        {{- $plainName = (substr $authorName 0 (sub (len $authorName) 1)) }}
+      {{ end }}
       {{- if .RelPermalink -}}
-        <a href="{{.RelPermalink}}" style="{{ if or (eq .LinkTitle "Chenjia Bai") (eq .LinkTitle "Chenjia Bai*") }}font-weight:bold;color:black;{{ end }}">
-          {{ if or (eq .LinkTitle "Chenjia Bai") (eq .LinkTitle "Chenjia Bai*") }}
-            <strong>{{ .LinkTitle }}</strong>
+        <a href="{{.RelPermalink}}" style="{{ if eq $plainName "Chenjia Bai" }}font-weight:bold;color:black;{{ end }}">
+          {{ if eq (substr $authorName (sub (len $authorName) 1) 1) "*" }}
+            {{ $plainName }}<sup>✉</sup>
           {{ else }}
-            {{ .LinkTitle }}
+            {{ $authorName }}
           {{ end }}
   </a>
   {{- else -}}
-        {{ if or (eq .LinkTitle "Chenjia Bai") (eq .LinkTitle "Chenjia Bai*") }}
-          <strong style="font-weight:bold;color:black;">{{ .LinkTitle }}</strong>
+        {{ if eq $plainName "Chenjia Bai" }}
+          <strong style="font-weight:bold;color:black;">
+            {{ if eq (substr $authorName (sub (len $authorName) 1) 1) "*" }}
+              {{ $plainName }}<sup>✉</sup>
+            {{ else }}
+              {{ $authorName }}
+            {{ end }}
+          </strong>
         {{ else }}
-          {{ .LinkTitle }}
+          {{ if eq (substr $authorName (sub (len $authorName) 1) 1) "*" }}
+            {{ $plainName }}<sup>✉</sup>
+          {{ else }}
+            {{ $authorName }}
+          {{ end }}
         {{ end }}
       {{- end -}}
     </span>
