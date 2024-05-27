@@ -24,10 +24,10 @@ publication_types: ["conference"]
 publication: In *International Conference on Machine Learning (**ICML**)*, 2024
 publication_short: ""
 
-abstract: ""
+abstract: "It is vital to learn effective policies that can be transferred to different domains with dynamics discrepancies in reinforcement learning (RL). In this paper, we consider dynamics adaptation settings where there exists dynamics mismatch between the source domain and the target domain, and one can get access to sufficient source domain data, while can only have limited interactions with the target domain. Existing methods address this problem by learning domain classifiers, performing data filtering from a value discrepancy perspective, etc. Instead, we tackle this challenge from a decoupled representation learning perspective. We perform representation learning only in the target domain and measure the representation deviations on the transitions from the source domain, which we show can be a signal of dynamics mismatch. We also show that representation deviation upper bounds performance difference of a given policy in the source domain and target domain, which motivates us to adopt representation deviation as a reward penalty. The produced representations are not involved in either policy or value function, but only serve as a reward penalizer. We conduct extensive experiments on environments with kinematic and morphology mismatch, and the results show that our method exhibits strong performance on many tasks."
   
 # Summary. An optional shortened abstract.
-summary: This is a summary.
+summary: In this paper, we consider dynamics adaptation settings where there exists dynamics mismatch between the source domain and the target domain, and one can get access to sufficient source domain data, while can only have limited interactions with the target domain.
   
 tags: []
   
@@ -36,7 +36,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://baichenjia.github.io/xx
+url_pdf: https://arxiv.org/abs/2405.15369
 url_code: ''
 url_dataset: ''
 url_poster: ''
