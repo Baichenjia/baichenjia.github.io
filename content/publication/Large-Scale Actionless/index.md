@@ -41,7 +41,7 @@ url_pdf: https://arxiv.org/abs/2402.14407
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: https://video-diff.github.io/
 url_slides: ''
 url_source: ''
 url_video: ''

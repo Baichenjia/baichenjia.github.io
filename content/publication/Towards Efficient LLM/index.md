@@ -41,7 +41,7 @@ url_pdf: https://arxiv.org/abs/2405.14314
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: https://read-llm.github.io/
 url_slides: ''
 url_source: ''
 url_video: ''
