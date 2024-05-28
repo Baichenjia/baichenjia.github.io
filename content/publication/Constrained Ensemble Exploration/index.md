@@ -38,7 +38,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://baichenjia.github.io/xx
+url_pdf: https://arxiv.org/abs/2405.16030
 url_code: ''
 url_dataset: ''
 url_poster: ''
