@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: "[Researcher of Shanghai AI Laboratory](https://www.shlab.org.cn/)"
+role: "[Researcher at Shanghai AI Laboratory](https://www.shlab.org.cn/)"
 
 # Organizations/Affiliations to show in About widget
 #organizations:
