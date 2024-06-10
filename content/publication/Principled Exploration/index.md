@@ -12,7 +12,7 @@ author_notes:
 date: "2021-03-11T00:00:00Z"
 doi: ""
 
-weight: 29
+weight: 6
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-03-11T00:00:00Z"

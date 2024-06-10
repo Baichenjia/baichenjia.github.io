@@ -10,7 +10,7 @@ author_notes:
 date: "2020-03-06T00:00:00Z"
 doi: ""
 
-weight: 33
+weight: 2
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-03-06T00:00:00Z"

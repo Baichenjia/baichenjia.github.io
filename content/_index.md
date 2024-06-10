@@ -128,7 +128,7 @@ sections:
       text: |-
         <div text-align=center><font size=3px>"✉" denotes corresponding author</font></div>
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        <font size=3px>Quickly discover relevant content by [filtering publications](./publication/).</font>
         {{% /callout %}}
       filters:
         folders:
@@ -136,7 +136,7 @@ sections:
         exclude_featured: false
       count: 0
       sort_by: 'weight'
-      sort_ascending: true
+      sort_ascending: false
     design:
       columns: '1'
       view: compact
@@ -190,7 +190,7 @@ sections:
           location: Canada
           date_start: '2021-06-01'
           date_end: '2022-09-01'
-        - title: Phd Student
+        - title: PhD Student
           company: Harbin Institute of Technology
           company_url: ''
           company_logo: ''

@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher of Shanghai AI Laboratory
+role: "[Researcher of Shanghai AI Laboratory](https://www.shlab.org.cn/)"
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Shanghai AI Laboratory
-    url: https://www.shlab.org.cn/
+#organizations:
+#  - name: Shanghai AI Laboratory
+#    url: https://www.shlab.org.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research mainly focuses on deep **Reinforcement Learning** (RL) and **Embodied AI**, including diffusion/transformer embodied system, Preference Learning, offline RL, robust RL, efficient exploration, representation learning, and multi-agent system.
