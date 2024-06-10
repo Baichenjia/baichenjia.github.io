@@ -103,9 +103,6 @@ social:
   - icon: zhihu
     icon_pack: fab
     link: https://www.zhihu.com/column/RL-HIT
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
     
 # Highlight the author in author lists? (true/false)
 highlight_name: true
