@@ -45,6 +45,7 @@ url_project: https://video-diff.github.io/
 url_slides: ''
 url_source: ''
 url_video: ''
+url_wechat: 'https://mp.weixin.qq.com/s/unx_k2IkdGsnbNIdFoGiVA'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
