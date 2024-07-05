@@ -145,6 +145,8 @@ sections:
     content:
       title: Talks
       text: | 
+        - <font size=4rem>世界人工智能大会-WAIC: [青年优秀论文论坛](https://mp.weixin.qq.com/s/vkhTG6uWF4wcA74TcJqFCA). 上海科协 2024.</font>
+        - <font size=4rem>中国具身智能大会: [大模型与具身智能](https://mp.weixin.qq.com/s/Z1vDIbZoiWQff1JiKxJHCw). 人工智能学会 2024.</font>
         - <font size=4rem>上海自主智能无人系统科学中心: [智能决策学术报告](https://robot.tongji.edu.cn/info/1253/2399.htm). 同济大学 2023.</font>
         - <font size=4rem>决策智能峰会: [决策大模型论坛](https://mp.weixin.qq.com/s/-fhPGNU_7VJKQ2FPQ-VPTw). DataFun 2023.</font>
         - <font size=4rem>多智能体强化学习讲习班: [离线强化学习和大模型](https://mp.weixin.qq.com/s/YyFGVkBoiYVi0T887d6gWQ). 自动化学会 2023.</font>
@@ -159,7 +161,7 @@ sections:
     content:
       title: Service
       text: |
-        - <font size=4rem>Senior Program Committee Members (SPC) of AAMAS (2024)</font>
+        - <font size=4rem>Senior Program Committee Member (SPC) / Area Chair (AC) of AAMAS (2024 - 2025)</font>
         - <font size=4rem>Program Committee Members (PC) / Conference Reviewer of NeurIPS (2021 - 2024)</font>
         - <font size=4rem>Program Committee Members (PC) / Conference Reviewer of ICLR (2021 - 2024)</font>
         - <font size=4rem>Program Committee Members (PC) / Conference Reviewer of ICML (2022 - 2024)</font>
@@ -176,14 +178,21 @@ sections:
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       items:
+        - title: Research Scientist
+          company: TeleAI, China Telecom
+          company_url: ''
+          company_logo: ''
+          location: China
+          date_start: '2024-09-02'
+          date_end: ''
         - title: Researcher
           company: Shanghai AI Laboratory
           company_url: ''
           company_logo: ''
           location: China
-          date_start: '2022-11-01'
-          date_end: ''
-        - title: Visiting PhD Student
+          date_start: '2022-09-02'
+          date_end: '2024-09-01'
+        - title: Joint PhD Student
           company: University of Toronto
           company_url: ''
           company_logo: ''
