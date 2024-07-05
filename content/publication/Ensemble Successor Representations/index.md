@@ -35,7 +35,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2405.07223
+url_pdf: http://scis.scichina.com/en/2024/172203.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

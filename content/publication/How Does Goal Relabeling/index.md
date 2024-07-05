@@ -36,7 +36,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://baichenjia.github.io/xx
+url_pdf: https://openreview.net/forum?id=99UFZV2VpU
 url_code: ''
 url_dataset: ''
 url_poster: ''
