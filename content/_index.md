@@ -178,20 +178,20 @@ sections:
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       items:
-        - title: Research Scientist
-          company: TeleAI, China Telecom
-          company_url: ''
-          company_logo: ''
-          location: China
-          date_start: '2024-09-02'
-          date_end: ''
+        # - title: Research Scientist
+        #   company: TeleAI, China Telecom
+        #   company_url: ''
+        #   company_logo: ''
+        #   location: China
+        #   date_start: '2024-09-02'
+        #   date_end: ''
         - title: Researcher
           company: Shanghai AI Laboratory
           company_url: ''
           company_logo: ''
           location: China
           date_start: '2022-09-02'
-          date_end: '2024-09-01'
+          date_end: ''
         - title: Joint PhD Student
           company: University of Toronto
           company_url: ''
