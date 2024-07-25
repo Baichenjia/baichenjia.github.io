@@ -36,7 +36,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2404.06188
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0020025524010600
 url_code: ''
 url_dataset: ''
 url_poster: ''
