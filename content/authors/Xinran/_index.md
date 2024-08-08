@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Yuling Li
+title: Xinran Li
 
 # Full name (for SEO)
-first_name: Yuling
+first_name: Xinran
 last_name: Li
 
 # Username (this should match the folder name)
 authors:
-  - Yuling Li
+  - Xinran Li
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Harbin Institute of Technology
+role: Hong Kong University of Science and Technology
 
 # Organizations/Affiliations
 #organizations:
@@ -48,7 +48,7 @@ role: Harbin Institute of Technology
 social:
   - icon: graduation-cap
     icon_pack: fas
-    link: https://#
+    link: https://scholar.google.com/citations?user=6fYlKXgAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/resume.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,5 +60,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Students & Interns
 ---
