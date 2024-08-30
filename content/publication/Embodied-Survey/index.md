@@ -34,7 +34,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2406.15836
+url_pdf: https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0076
 url_code: ''
 url_dataset: ''
 url_poster: ''
