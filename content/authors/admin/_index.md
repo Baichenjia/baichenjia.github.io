@@ -17,7 +17,8 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: "[Researcher at Shanghai AI Laboratory](https://www.shlab.org.cn/)"
+role: "<br>Research Scientist <br>
+[Institute of Artificial Intelligence (TeleAI), China Telecom](http://www.chinatelecom.com.cn)"
 
 # Organizations/Affiliations to show in About widget
 #organizations:
@@ -38,13 +39,16 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Harbin Institute of Technology
-      year: 2022
-    - course: MEng in Computer Science
-      institution: Harbin Institute of Technology
-      year: 2017
-    - course: BSc in Computer Science
-      institution: Harbin Institute of Technology
-      year: 2015
+      year: 2017-2022
+    - course: Joint PhD Program
+      institution: University of Toronto
+      year: 2021-2022
+    # - course: MEng in Computer Science
+    #   institution: Harbin Institute of Technology
+    #   year: 2017
+    # - course: BSc in Computer Science
+    #   institution: Harbin Institute of Technology
+    #   year: 2015
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -93,7 +97,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:baichenjia@pjlab.org.cn
+    link: mailto:baicj@chinatelecom.cn
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=Rm_1y2kAAAAJ&hl=en
@@ -108,7 +112,10 @@ social:
 highlight_name: true
 ---
 
-<br>I am a Researcher at Shanghai AI Laboratory, working for AI-diven embodied agents and large-scale decision-making systems, directed by Prof. [Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=zh-CN). My research mainly focuses on deep **Reinforcement Learning** (RL) and **Embodied AI**, including diffusion/transformer embodied system, Preference Learning, offline RL, robust RL, efficient exploration, representation learning, and multi-agent system. I holds a Ph.D. degree in Computer Science from Harbin Institute of Technology (HIT), advised by Prof. [Peng Liu](http://pr-ai.hit.edu.cn/2018/0505/c10408a207376/page.htm).
+<br>I am a Research Scientist at [Institute of Artificial Intelligence (TeleAI), China Telecom](http://www.chinatelecom.com.cn), specialized in the cutting-edge field of **Embodied AI** and Robot Foundation Models. Our group is dedicated to develop embodied technologies encompassing perception, planning, locomotion, manipulation, and promoting the industrial application of embodied AI. Our group thrives under the leadership of Prof. [Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=zh-CN), who serves as the dean of TeleAI. Previously, I was a Researcher at [Shanghai AI Laboratory](https://www.shlab.org.cn/), affiliated with [IPEC group](https://www.pjlab-ipec.com/). My research interests include diffusion/transformer policy, LLM-driven planning, world model, preference learning, RL/MPC-based locomotion, dexterous manipulation, representation learning, sim-to-real, multi-agent collaboration, as well as real-world applications for dexterous hand, and quadruped robot, and humanoid robot.
 <br><br>
-I am fortunate to have been collaborated with many fantastic researchers. I was a visiting student at [University of Toronto](https://www.utoronto.ca/) and [Vector Institute](https://vectorinstitute.ai/), working with Prof. [Animesh Garg](http://animesh.garg.tech/). I also used to be an intern at [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home) (advised by Prof. [Jianye Hao](https://scholar.google.com/citations?user=FCJVUYgAAAAJ&hl=zh-CN)), [Tencent Robotics X](https://ai.tencent.com/ailab/zh/index) (advised by Dr. [Lei Han](https://leihan.org/)), and Alibaba. I received my Bachelor's degree and Master's degree in Computer Science from HIT.
+I holds a Ph.D. degree in Computer Science from Harbin Institute of Technology ([HIT](https://www.hit.edu.cn/)), advised by Prof. [Peng Liu](http://pr-ai.hit.edu.cn/2018/0505/c10408a207376/page.htm). I am fortunate to have been collaborated with many fantastic researchers. I was a joint PhD student at [University of Toronto](https://www.utoronto.ca/) and [Vector Institute](https://vectorinstitute.ai/), working with Prof. [Animesh Garg](http://animesh.garg.tech/). I also used to be an intern at [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home) (advised by Prof. [Jianye Hao](https://scholar.google.com/citations?user=FCJVUYgAAAAJ&hl=zh-CN)), [Tencent Robotics X](https://ai.tencent.com/ailab/zh/index) (advised by Dr. [Lei Han](https://leihan.org/)), and Alibaba. I received my Bachelor's degree and Master's degree in Computer Science from HIT.
 {style="text-align: justify;font-size: 0.9rem;"}
+
+<span style="color: Crimson;font-size: 19px;">**团队招收具身智能方向全职研究人员、实习生、联培博士生，具体详见**[链接](https://baichenjia.github.io/contact/).</span>
+
