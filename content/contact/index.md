@@ -14,7 +14,7 @@ sections:
 
           I am currently seeking <span style="color:IndianRed"><strong>Research Interns</strong></span> who are enthusiastic about cutting-edge areas of AI, with the goal of publishing high-quality papers or creating exciting robot demos based on the proof-of-concept algorithms developed by our team. The research interests of <a href="https://baichenjia.github.io/people/">our team</a> include:
           
-          -	<strong>Embodied AI</strong>: This includes Diffusion/Transformer Policy, World Model, Robust Policy, LLM/VLM-driven Embodied Planning/Policy/Reward, Agent-Environment Alignment/Interactions. The physical robot platforms we use include <strong>Humanoid, Quadruped Robots, and Dexterous Hands</strong>.
+          -	<strong>Embodied AI</strong>: This includes Diffusion/Transformer Policy, World Model, Robust Policy, LLM/VLM-driven Embodied Planning/Policy/Reward, Agent-Environment Alignment/Interactions. The physical robot platforms we use include <strong>Humanoid, Quadruped Robot, Robot Arm, and Dexterous Hand</strong>.
 
           -	<strong>Reinforcement Learning</strong>: This includes Domain Generalization, Exploration, Skill Discovery, Offline optimization, Preference Learning and RLHF, Representation Learning, as well as understanding the theoretical perspectives of RL algorithms.
           
@@ -28,7 +28,7 @@ sections:
 
           <font size=4.5rem> **全职研究人员招聘** <br>
 
-          [TeleAI高层次人才招聘](https://mp.weixin.qq.com/s/v6akamRWMZ0ajZap-g65Cw)：招聘机器人、机器学习、自动化、人工智能背景的博士研究员，同时有相应的工程师岗位，欢迎投递。
+          [TeleAI高层次人才招聘](https://mp.weixin.qq.com/s/v6akamRWMZ0ajZap-g65Cw)：招聘机器人、机器学习、自动化、人工智能背景的博士研究员，同时有相应的工程师岗位。[TeleAI校园招聘启动](https://mp.weixin.qq.com/s/K03hCO6DjQx670cNBFQMAQ)，欢迎投递。
           
           </font>
       # Automatically link email and phone or display as text?
