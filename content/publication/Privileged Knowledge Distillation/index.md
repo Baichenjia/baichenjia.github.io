@@ -1,10 +1,13 @@
 ---
-title: "Privileged Knowledge Distillation for Sim-to-Real Policy Generalization."
+title: "Bridging the Sim-to-Real Gap from the Information Bottleneck Perspective."
 authors:
 - Haoran He
+- Peilin Wu
 - Chenjia Bai
 - Hang Lai
 - Lingxiao Wang
+- Ling Pan, 
+- Xiaolin Hu
 - Weinan Zhang*
 author_notes:
 date: "2023-01-01T00:00:00Z"
@@ -18,16 +21,16 @@ publishDate: "2024-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["under-review"]
+publication_types: ["conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "under review"
+publication: "Annual Conference on Robot Learning"
 publication_short: ""
 
-abstract: Reinforcement Learning (RL) has recently achieved remarkable success in robotic control. However, most RL methods operate in simulated environments where privileged knowledge (e.g., dynamics, surroundings, terrains) is readily available. Conversely, in real-world scenarios, robot agents usually rely solely on local states (e.g., proprioceptive feedback of robot joints) to select actions, leading to a significant sim-to-real gap. Existing methods address this gap by either gradually reducing the reliance on privileged knowledge or performing a two-stage policy imitation. However, we argue that these methods are limited in their ability to fully leverage the privileged knowledge, resulting in suboptimal performance. In this paper, we propose a novel single-stage privileged knowledge distillation method called the Historical Information Bottleneck (HIB) to narrow the sim-to-real gap. In particular, HIB learns a privileged knowledge representation from historical trajectories by capturing the underlying changeable dynamic information. Theoretical analysis shows that the learned privileged knowledge representation helps reduce the value discrepancy between the oracle and learned policies. Empirical experiments on both simulated and real-world tasks demonstrate that HIB yields improved generalizability compared to previous methods.
+abstract: Reinforcement Learning (RL) has recently achieved remarkable success in robotic control. However, most works in RL operate in simulated environments where privileged knowledge (e.g., dynamics, surroundings, terrains) is readily available. Conversely, in real-world scenarios, robot agents usually rely solely on local states (e.g., proprioceptive feedback of robot joints) to select actions, leading to a significant sim-to-real gap. Existing methods address this gap by either gradually reducing the reliance on privileged knowledge or performing a two-stage policy imitation. However, we argue that these methods are limited in their ability to fully leverage the available privileged knowledge, resulting in suboptimal performance. In this paper, we formulate the sim-to-real gap as an information bottleneck problem and therefore propose a novel privileged knowledge distillation method called the Historical Information Bottleneck (HIB). In particular, HIB learns a privileged knowledge representation from historical trajectories by capturing the underlying changeable dynamic information. Theoretical analysis shows that the learned privileged knowledge representation helps reduce the value discrepancy between the oracle and learned policies. Empirical experiments on both simulated and real-world tasks demonstrate that HIB yields improved generalizability compared to previous methods.
 
 # Summary. An optional shortened abstract.
-summary: We propose a novel single-stage privileged knowledge distillation method called the Historical Information Bottleneck (HIB) to narrow the sim-to-real gap.
+summary: We propose a novel single-stage privileged knowledge distillation method called the Historical Information Bottleneck (HIB) to narrow the sim-to-real gap for legged locomotion.
 
 tags: []
   
@@ -36,7 +39,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://openreview.net/forum?id=C6QyN5GjHG
+url_pdf: https://openreview.net/pdf?id=Bq4XOaU4sV
 url_code: ''
 url_dataset: ''
 url_poster: ''
