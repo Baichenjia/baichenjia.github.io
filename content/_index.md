@@ -144,7 +144,8 @@ sections:
     id: talks
     content:
       title: Talks
-      text: | 
+      text: |
+        - <font size=4rem>CCF决策智能会议（RLChina）: [具身智能体与机器人论坛](http://rlchina.org/rlchina_2024/Workshop.html). 计算机学会 2024.</font>
         - <font size=4rem>中国数据挖掘会议: [AI Agent与多智能体系统研讨会](https://ccf.org.cn/CCDM2024/general_3056). 计算机学会 2024.</font>
         - <font size=4rem>世界人工智能大会-WAIC: [青年优秀论文论坛](https://mp.weixin.qq.com/s/vkhTG6uWF4wcA74TcJqFCA). 上海科协 2024.</font>
         - <font size=4rem>中国具身智能大会: [大模型与具身智能](https://mp.weixin.qq.com/s/Z1vDIbZoiWQff1JiKxJHCw). 人工智能学会 2024.</font>
