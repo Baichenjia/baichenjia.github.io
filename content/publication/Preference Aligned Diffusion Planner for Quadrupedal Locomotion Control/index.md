@@ -1,5 +1,5 @@
 ---
-title: "Task-agnostic Pre-training and Task-guided Fine-tuning for Versatile Diffusion Planner."
+title: "Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control."
 authors:
 - Xinyi Yuan
 - Zhiwei Shang
