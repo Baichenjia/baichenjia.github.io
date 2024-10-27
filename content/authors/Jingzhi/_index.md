@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Zhao Shan
+title: Zhi Jing
 
 # Full name (for SEO)
-first_name: Zhao
-last_name: Shan
+first_name: Zhi
+last_name: Jing
 
 # Username (this should match the folder name)
 authors:
-  - Zhao Shan
+  - Jingzhi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Tsinghua University 
+role: Fudan University
 
 # Organizations/Affiliations
 #organizations:
@@ -48,7 +48,7 @@ role: Tsinghua University
 social:
   - icon: graduation-cap
     icon_pack: fas
-    link: https://ieeexplore.ieee.org/author/37090035307
+    link: https://www.yuque.com/jingzhi2024
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/resume.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,5 +60,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Students & Interns
 ---
