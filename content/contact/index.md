@@ -20,11 +20,11 @@ sections:
           
           The resulting work aims to produce high-quality papers and demos for leading machine learning conferences (e.g., NeurIPS, ICML, ICLR) or robotics conferences (e.g., RSS, CoRL, ICRA). We will provide generous internship salaries, hardware platforms, computing resources, and research guidance.
           <br>
-          If you have a strong background in machine learning, computer science, robotics, or related fields, and are eager to contribute to pioneering research, I would love to hear from you. Please feel free to <a href="mailto:baicj@chinatelecom.cn">contact me</a> with an attached CV. 
+          If you have a strong background in machine learning, computer science, robotics, or related fields, and are eager to contribute to pioneering research, I would love to hear from you. Please feel free to <a href="mailto:baichenjia255@gmail.com">contact me</a> with an attached CV. 
           
           <font size=4.5rem> **联培博士生招聘** <br>
 
-          中国电信人工智能研究院（TeleAI）与清华、上交、复旦、浙大、中科大等高校开展[博士生联合培养](https://mp.weixin.qq.com/s/vUyOTLywdUNlLGk1ZvUpWA)，欢迎对具身智能、决策大模型、强化学习、运动控制、灵巧操作、机器人软硬件设计感兴趣的同学<a href="mailto:baicj@chinatelecom.cn">申请</a>。
+          中国电信人工智能研究院（TeleAI）与清华、上交、复旦、浙大、中科大等高校开展[博士生联合培养](https://mp.weixin.qq.com/s/vUyOTLywdUNlLGk1ZvUpWA)，欢迎对具身智能、决策大模型、强化学习、运动控制、灵巧操作、机器人软硬件设计感兴趣的同学<a href="mailto:baichenjia255@gmail.com">申请</a>。
 
           <font size=4.5rem> **全职研究人员招聘** <br>
 
