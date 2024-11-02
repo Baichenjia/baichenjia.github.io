@@ -7,9 +7,9 @@ authors:
 - Mengbei Yan
 - Jing-Wen Yang
 - Zongzhang Zhang
-- Chenjia Bai
-- Zongqing Lu
-- Xiu Li 
+- Chenjia Bai*
+- Zongqing Lu*
+- Xiu Li*
 author_notes:
 date: "2023-03-19T00:00:00Z"
 doi: ""
