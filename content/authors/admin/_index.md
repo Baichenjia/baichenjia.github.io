@@ -30,8 +30,8 @@ bio: My research mainly focuses on deep **Reinforcement Learning** (RL) and **Em
 
 # Interests to show in About widget
 interests:
-  - Deep Reinforcement Learning
   - Embodied AI
+  - Reinforcement Learning
   - Foundation Model for Decision Making
 
 # Education to show in About widget
