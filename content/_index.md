@@ -145,6 +145,7 @@ sections:
     content:
       title: Talks
       text: |
+        - <font size=4rem>CSIG图像图形学科前沿讲习班: [小模型的曙光和机会之思辨](https://mp.weixin.qq.com/s/_2c35_vwNYSGDuCO65CJUQ). 图形图像学会 2025.</font>
         - <font size=4rem>自主机器人技术研讨会（ARTS 2024）: [大模型驱动的具身智能](https://mp.weixin.qq.com/s/fICgNjj531I1rZtfZJT9kg). 自动化学会 2024.</font>
         - <font size=4rem>CCF决策智能会议（RLChina）: [具身智能体与机器人论坛](http://rlchina.org/rlchina_2024/Workshop.html). 计算机学会 2024.</font>
         - <font size=4rem>中国数据挖掘会议: [AI Agent与多智能体系统研讨会](https://ccf.org.cn/CCDM2024/general_3056). 计算机学会 2024.</font>
@@ -165,12 +166,14 @@ sections:
       title: Service
       text: |
         - <font size=4rem>Senior Program Committee Member (SPC) / Area Chair (AC) of AAMAS (2024 - 2025)</font>
-        - <font size=4rem>Program Committee Members (PC) / Conference Reviewer of NeurIPS (2021 - 2024)</font>
-        - <font size=4rem>Program Committee Members (PC) / Conference Reviewer of ICLR (2021 - 2024)</font>
-        - <font size=4rem>Program Committee Members (PC) / Conference Reviewer of ICML (2022 - 2024)</font>
-        - <font size=4rem>Program Committee Members (PC) / Conference Reviewer of AAAI (2021 - 2024)</font>
-        - <font size=4rem>Program Committee Members (PC) / Conference Reviewer of ECAI (2023 - 2024)</font>
-        - <font size=4rem>Journal Reviewer: IEEE Trans. Cybernetics, IEEE Trans. TNNLS, IEEE Trans. TETCI, IEEE Trans. Intelligent Vehicles</font>
+        - <font size=4rem>Program Committee Members (PC) / Conference Reviewer of RSS (2024 - 2025)</font>
+        - <font size=4rem>Program Committee Members (PC) / Conference Reviewer of NeurIPS (2021 - 2025)</font>
+        - <font size=4rem>Program Committee Members (PC) / Conference Reviewer of ICLR (2021 - 2025)</font>
+        - <font size=4rem>Program Committee Members (PC) / Conference Reviewer of ICML (2022 - 2025)</font>
+        - <font size=4rem>Program Committee Members (PC) / Conference Reviewer of AAAI (2021 - 2025)</font>
+        - <font size=4rem>Program Committee Members (PC) / Conference Reviewer of ICRA (2024 - 2025)</font>
+        - <font size=4rem>Program Committee Members (PC) / Conference Reviewer of ECAI (2023 - 2025)</font>
+        - <font size=4rem>Journal Reviewer: IEEE Trans. Cybernetics, IEEE Trans. TNNLS, IEEE Trans. TETCI, IEEE Trans. Intelligent Vehicles, Pattern Recognition.</font>
     design:
       columns: '2'
   - block: experience
