@@ -1,5 +1,5 @@
 ---
-title: "Discriminator-Guided Embodied Planning for LLM Agent."
+title: "Exponential Topology-enabled Scalable Communication in Multi-agent Reinforcement Learning."
 authors:
 - Xinran Li
 - Xiaolu Wang
