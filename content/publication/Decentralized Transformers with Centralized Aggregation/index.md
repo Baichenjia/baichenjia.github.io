@@ -12,7 +12,7 @@ author_notes:
 date: "2023-06-31T00:00:00Z"
 doi: ""
 
-weight: 40
+weight: 39
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-06-31T00:00:00Z"
@@ -20,10 +20,10 @@ publishDate: "2023-06-31T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["under-review"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "under review"
+publication: "In *Transactions on Machine Learning Research (**TMLR**)*, under review, 2025"
 publication_short: ""
 
 abstract: "Learning a world model for model-free Reinforcement Learning (RL) agents can significantly improve the sample efficiency by learning policies in imagination. However, building a world model for Multi-Agent RL (MARL) can be particularly challenging due to the scalability issue in a centralized architecture arising from a large number of agents, and also the non-stationarity issue in a decentralized architecture stemming from the inter-dependency among agents. To address both challenges, we propose a novel world model for MARL that learns decentralized local dynamics for scalability, combined with a centralized representation aggregation from all agents. We cast the dynamics learning as an auto-regressive sequence modeling problem over discrete tokens by leveraging the expressive Transformer architecture, in order to model complex local dynamics across different agents and provide accurate and consistent long-term imaginations. As the first pioneering Transformer-based world model for multi-agent systems, we introduce a Perceiver Transformer as an effective solution to enable centralized representation aggregation within this context. Results on Starcraft Multi-Agent Challenge (SMAC) show that it outperforms strong model-free approaches and existing model-based methods in both sample efficiency and overall performance."
