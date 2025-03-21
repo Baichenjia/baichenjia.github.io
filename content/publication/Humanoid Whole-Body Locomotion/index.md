@@ -13,7 +13,7 @@ author_notes:
 date: "2025-05-23T00:00:00Z"
 doi: ""
 
-weight: 48
+weight: 49
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-05-23T00:00:00Z"
@@ -46,7 +46,7 @@ url_project: https://whole-body-loco.github.io/
 url_slides: ''
 url_source: ''
 url_video: ''
-url_wechat: ''
+url_wechat: 'https://mp.weixin.qq.com/s/lmR0DcnBWmm6MrzgYBSnnw'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
