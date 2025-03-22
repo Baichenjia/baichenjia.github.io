@@ -9,13 +9,13 @@ authors:
 - Xiu Li*
 
 author_notes:
-date: "2025-05-23T00:00:00Z"
+date: "2023-03-09T00:00:00Z"
 doi: ""
 
 weight: 48
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-05-23T00:00:00Z"
+publishDate: "2023-03-09T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -45,7 +45,6 @@ url_project: https://vlpref.github.io/
 url_slides: ''
 url_source: ''
 url_video: ''
-url_wechat: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
