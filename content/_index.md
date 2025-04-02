@@ -145,6 +145,8 @@ sections:
     content:
       title: Talks
       text: |
+        - <font size=4rem>VALSE Webinar 379: [具身智能中的多模态感知与精细操控](https://mp.weixin.qq.com/s/wsNHjioVWo6KUB-PnJGQYQ). VALSE 2025.</font>
+        - <font size=4rem>中国具身智能大会: [模式识别与机器人论坛](https://mp.weixin.qq.com/s/OZMKYUCOAxRLlSLPHfjDJA). 人工智能学会 2025.</font>
         - <font size=4rem>CSIG图像图形学科前沿讲习班: [小模型的曙光和机会之思辨](https://mp.weixin.qq.com/s/_2c35_vwNYSGDuCO65CJUQ). 图形图像学会 2025.</font>
         - <font size=4rem>自主机器人技术研讨会（ARTS 2024）: [大模型驱动的具身智能](https://mp.weixin.qq.com/s/fICgNjj531I1rZtfZJT9kg). 自动化学会 2024.</font>
         - <font size=4rem>CCF决策智能会议（RLChina）: [具身智能体与机器人论坛](http://rlchina.org/rlchina_2024/Workshop.html). 计算机学会 2024.</font>
