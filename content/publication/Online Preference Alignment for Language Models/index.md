@@ -23,7 +23,7 @@ publishDate: "2024-12-07T00:00:00Z"
 publication_types: ["conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: In "*International Conference on Learning Representations (**ICLR**)*, 2025 &nbsp;&nbsp;&nbsp; <mark>**Spotlight**</mark>"
+publication: In *International Conference on Learning Representations (**ICLR**)*, 2025 &nbsp;&nbsp;&nbsp; <mark>**Spotlight**</mark>
 
 publication_short: ""
 
