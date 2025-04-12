@@ -1,20 +1,18 @@
 ---
-title: "Humanoid Whole-Body Locomotion on Narrow Terrain via Dynamic Balance and Reinforcement Learning."
+title: "Information-Theoretic Reward Decomposition for Generalizable RLHF."
 authors:
-- Weiji Xie
-- Chenjia Bai*
-- Jiyuan Shi
-- Junkai Yang
-- Yunfei Ge
+- Liyuan Mao
+- Haoran Xu 
+- Amy Zhang
 - Weinan Zhang*
-- Xuelong Li
+- Chenjia Bai*
 
 author_notes:
 date: "2023-03-09T00:00:00Z"
 doi: ""
 draft: false
 
-weight: 49
+weight: 50
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-03-09T00:00:00Z"
@@ -28,10 +26,10 @@ publication_types: ["under-review"]
 publication: "under review"
 publication_short: ""
 
-abstract: Humans possess delicate dynamic balance mechanisms that enable them to maintain stability across diverse terrains and under extreme conditions. However, despite significant advances recently, existing locomotion algorithms for humanoid robots are still struggle to traverse extreme environments, especially in cases that lack external perception (e.g., vision or LiDAR). This is because current methods often rely on gait-based or perception-condition rewards, lacking effective mechanisms to handle unobservable obstacles and sudden balance loss. To address this challenge, we propose a novel whole-body locomotion algorithm based on dynamic balance and Reinforcement Learning (RL) that enables humanoid robots to traverse extreme terrains, particularly narrow pathways and unexpected obstacles, using only proprioception. Specifically, we introduce a dynamic balance mechanism by leveraging an extended measure of Zero-Moment Point (ZMP)-driven rewards and task-driven rewards in a whole-body actor-critic framework, aiming to achieve coordinated actions of the upper and lower limbs for robust locomotion. Experiments conducted on a full-sized Unitree H1-2 robot verify the ability of our method to maintain balance on extremely narrow terrains and under external disturbances, demonstrating its effectiveness in enhancing the robot's adaptability to complex environments. 
+abstract: A generalizable reward model is crucial in Reinforcement Learning from Human Feedback (RLHF) as it enables correctly evaluating unseen prompt-response pairs. However, existing reward models lack this ability, as they are typically trained by increasing the reward gap between chosen and rejected responses, while overlooking the prompts that the responses are conditioned on. Consequently, when the trained reward model is evaluated on prompt-response pairs that lie outside the data distribution, neglecting the effect of prompts may result in poor generalization of the reward model. To address this issue, we decompose the reward value into two independent components:prompt-free reward and prompt-related reward. Prompt-free reward represents the evaluation that is determined only by responses, while the prompt-related reward reflects the reward that derives from both the prompt and the response. We extract these two components from an information-theoretic perspective, which requires no extra models. Subsequently, we propose a new reward learning algorithm by prioritizing data samples based on their prompt-free reward values. Through toy examples, we demonstrate that the extracted prompt-free and prompt-related rewards effectively characterize two parts of the reward model. Further, standard evaluations show that our method improves both the alignment performance and the generalization capability of the reward model.
 
 # Summary. An optional shortened abstract.
-summary:  we propose a novel whole-body locomotion algorithm based on dynamic balance and Reinforcement Learning (RL) that enables humanoid robots to traverse extreme terrains, particularly narrow pathways and unexpected obstacles, using only proprioception.
+summary:  We decompose the reward value in RLHF into two independent components that consists prompt-free reward and prompt-related reward, and propose a new reward learning algorithm by prioritizing data samples based on their prompt-free reward values.
 
 tags: []
 featured: true
@@ -39,15 +37,15 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2502.17219
+url_pdf: https://arxiv.org/abs/2504.06020
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: https://whole-body-loco.github.io/
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-url_wechat: 'https://mp.weixin.qq.com/s/lmR0DcnBWmm6MrzgYBSnnw'
+url_wechat: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
