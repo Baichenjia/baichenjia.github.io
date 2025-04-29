@@ -13,7 +13,7 @@ author_notes:
 date: "2023-08-22T00:00:00Z"
 doi: ""
 
-weight: 19
+weight: 44
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-08-22T00:00:00Z"
@@ -21,10 +21,10 @@ publishDate: "2023-08-22T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["under-review"]
+publication_types: ["conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Pattern Analysis and Machine Intelligence. 2023 (under review)*"
+publication: "*IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)*, 2023"
 publication_short: ""
 
 abstract: Leveraging learned strategies in unfamiliar scenarios is fundamental to human intelligence. In reinforcement learning, rationally reusing the policies acquired from other tasks or human experts is critical for tackling problems that are difficult to learn from scratch. In this work, we present a framework called Selective Myopic bEhavior Control~(SMEC), which results from the insight that the short-term behaviors of prior policies are sharable across tasks. By evaluating the behaviors of prior policies via a hybrid value function architecture, SMEC adaptively aggregates the sharable short-term behaviors of prior policies and the long-term behaviors of the task policy, leading to coordinated decisions. Empirical results on a collection of manipulation and locomotion tasks demonstrate that SMEC outperforms existing methods, and validate the ability of SMEC to leverage related prior policies.
@@ -39,7 +39,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/2305.17623v1
+url_pdf: https://ieeexplore.ieee.org/document/10971952
 url_code: ''
 url_dataset: ''
 url_poster: ''
