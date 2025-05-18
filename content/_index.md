@@ -168,6 +168,7 @@ sections:
       title: Service
       text: |
         - <font size=4rem>Senior Program Committee Member (SPC) / Area Chair (AC) of AAMAS (2024 - 2025)</font>
+        - <font size=4rem>Area Chair (AC) of Pattern Recognition and Computer Vision (PRCV) (2025 - )</font>
         - <font size=4rem>Program Committee Members (PC) / Conference Reviewer of RSS (2024 - 2025)</font>
         - <font size=4rem>Program Committee Members (PC) / Conference Reviewer of NeurIPS (2021 - 2025)</font>
         - <font size=4rem>Program Committee Members (PC) / Conference Reviewer of ICLR (2021 - 2025)</font>
