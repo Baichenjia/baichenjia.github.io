@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Haofu Qian
+title: Weiji Xie
 
 # Full name (for SEO)
-first_name: Haofu
-last_name: Qian
+first_name: Weiji
+last_name: Xie
 
 # Username (this should match the folder name)
 authors:
-  - Haofu
+  - Weiji
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Zhejiang University
+role: Shanghai Jiaotong University
 
 # Organizations/Affiliations
 #organizations:
@@ -48,7 +48,7 @@ role: Zhejiang University
 social:
   - icon: graduation-cap
     icon_pack: fas
-    link: https://#
+    link: https://shi-soul.github.io/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/resume.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,5 +60,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Students & Interns
 ---
