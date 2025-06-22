@@ -51,7 +51,7 @@ url_project: 'https://kungfu-bot.github.io/'
 url_slides: ''
 url_source: ''
 url_video: ''
-url_wechat: ''
+url_wechat: 'https://mp.weixin.qq.com/s/HggRWlqMbOtJsXZyqXEE2Q'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
