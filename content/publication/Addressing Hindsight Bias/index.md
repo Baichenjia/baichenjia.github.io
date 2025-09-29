@@ -37,11 +37,11 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/document/9531338
+url_pdf: ''
 url_code: https://github.com/baichenjia/BHER
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://ieeexplore.ieee.org/document/9531338'
 url_slides: ''
 url_source: ''
 url_video: ''

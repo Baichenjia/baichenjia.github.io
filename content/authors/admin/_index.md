@@ -42,7 +42,7 @@ education:
       year: 2017-2022
     - course: Joint PhD Program
       institution: University of Toronto
-      year: 2021-2022
+      year: 2020-2022
     # - course: MEng in Computer Science
     #   institution: Harbin Institute of Technology
     #   year: 2017
