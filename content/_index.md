@@ -209,7 +209,7 @@ sections:
           company_url: ''
           company_logo: ''
           location: Canada
-          date_start: '2021-06-01'
+          date_start: '2020-12-31'
           date_end: '2022-09-01'
         - title: PhD Student
           company: Harbin Institute of Technology
