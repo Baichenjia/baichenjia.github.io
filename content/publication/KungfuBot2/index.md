@@ -14,7 +14,7 @@ date: "2023-09-27T00:00:00Z"
 doi: ""
 draft: false
 
-weight: 58
+weight: 62
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-27T00:00:00Z"
@@ -35,7 +35,7 @@ tags: []
 featured: true
 
 url_pdf: https://arxiv.org/abs/2509.16638
-url_code: ''
+url_code: 'https://github.com/TeleHuman/PBHC'
 url_dataset: ''
 url_poster: ''
 url_project: 'https://kungfubot2-humanoid.github.io/'

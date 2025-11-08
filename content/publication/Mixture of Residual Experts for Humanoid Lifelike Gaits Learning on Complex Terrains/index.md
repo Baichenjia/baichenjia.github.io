@@ -22,10 +22,11 @@ publishDate: "2023-03-09T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["under-review"]
+publication_types: ["journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "under review"
+publication: "In *Pattern Recognition*, 2025 (under review)"
+
 publication_short: ""
 
 abstract: Humanoid robots have demonstrated robust locomotion capabilities using Reinforcement Learning (RL)-based approaches. However, existing methods are limited in flat terrains with proprioception only, restricting their abilities to traverse challenging terrains with human-like gaits. In this work, we propose a novel framework using a mixture of latent residual experts with multi-discriminators to train an RL policy, which is capable of traversing complex terrains in controllable lifelike gaits with exteroception. Our two-stage training pipeline first teaches the policy to traverse complex terrains using a depth camera, and then enables gait-commanded switching between human-like gait patterns. We also design gait rewards to adjust human-like behaviors like robot base height. Simulation and real-world experiments demonstrate that our framework exhibits exceptional performance in traversing complex terrains, and achieves seamless transitions between multiple human-like gait patterns.
@@ -40,7 +41,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: https://arxiv.org/abs/2506.08840
-url_code: ''
+url_code: 'http://github.com/TeleHuman/More'
 url_dataset: ''
 url_poster: ''
 url_project: 'https://more-humanoid.github.io/'
