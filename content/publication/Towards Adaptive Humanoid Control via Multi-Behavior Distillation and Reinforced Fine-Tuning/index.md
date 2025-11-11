@@ -34,11 +34,11 @@ summary: We propose a framework for adaptive humanoid control via multi-behavior
 tags: []
 featured: true
 
-url_pdf: 'https://openreview.net/forum?id=l0buPJJ62u'
+url_pdf: 'https://arxiv.org/abs/2511.06371'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://ahc-humanoid.github.io/'
 url_slides: ''
 url_source: ''
 url_video: ''
