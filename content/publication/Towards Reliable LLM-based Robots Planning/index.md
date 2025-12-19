@@ -33,8 +33,8 @@ tags: []
   
 featured: true
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://openreview.net/forum?id=68OW8tLSh2'
+url_code: 'https://github.com/Firesuiry/CURE'
 url_dataset: ''
 url_poster: ''
 url_project: ''
