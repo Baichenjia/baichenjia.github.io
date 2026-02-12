@@ -36,7 +36,7 @@ url_project: 'https://soccer-humanoid.github.io/.'
 url_slides: ''
 url_source: ''
 url_video: ''
-url_wechat: ''
+url_wechat: 'https://mp.weixin.qq.com/s/XMG9V8AmFNi3jMQHvJQ5Rg'
 
 projects: []
 slides: ""
