@@ -13,20 +13,20 @@ authors:
 - Xuelong Li*
 
 author_notes:
-date: "2023-09-27T00:00:00Z"
+date: "2026-01-01T00:00:00Z"
 doi: ""
 draft: false
 
 weight: 63
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-09-27T00:00:00Z"
+publishDate: "2026-01-01T00:00:00Z"
 
 # Publication type.
-publication_types: ["under-review"]
+publication_types: ["conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "under review"
+publication: In *International Conference on Learning Representations (**ICLR**)*, 2026
 publication_short: ""
 
 abstract: Vision-Language Action Models (VLAs) demonstrate remarkable capabilities in mapping language instructions to robot actions through vision perception. However, their limited ability to adapt to novel environments poses a significant challenge to real-world deployment. Existing methods tackle this by either fine-tuning the entire model or pre-training on large-scale embodied datasets, which can be computationally intensive or prone to catastrophic forgetting. To address this, we propose Align-Then-stEer (ATE), a framework that adapts VLAs to novel environments through unified latent guidance. Specifically, ATE incorporates an environment-specific adapter to guide the latent representation of the original model. This adapter is trained via contrastive learning on a small amount of domain data, enabling efficient adaptation while preserving the model's original capabilities. We validate ATE on both simulation and real-world benchmarks, demonstrating its effectiveness in adapting VLAs to novel environments with limited data and computational resources. Moreover, we show that ATE can handle significant domain shifts without compromising performance on the original domain.
