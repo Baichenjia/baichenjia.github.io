@@ -42,7 +42,6 @@ url_dataset: ''
 url_poster: ''
 url_project: 'https://text-op.github.io/'
 url_slides: ''
-url_source: 'https://arxiv.org/abs/2602.07439'
 url_video: ''
 url_wechat: 'https://mp.weixin.qq.com/s/BwWBi4TwJCoJ94LKcMf8eg'
 
