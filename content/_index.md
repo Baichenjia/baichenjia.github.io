@@ -45,9 +45,9 @@ sections:
       filters:
         folders:
           - book
-      design:
-        columns: '1'
-        view: compact
+    design:
+      columns: '1'
+      view: compact
   - block: collection
     id: publication
     content:
@@ -63,12 +63,12 @@ sections:
         folders:
           - publication
         exclude_featured: false
-        count: 0
-        sort_by: 'weight'
-        sort_ascending: false
-      design:
-        columns: '1'
-        view: compact
+      count: 0
+      sort_by: 'weight'
+      sort_ascending: false
+    design:
+      columns: '1'
+      view: compact
   - block: markdown
     id: talks
     content:
@@ -102,9 +102,9 @@ sections:
     content:
       title: Service
       text: |
-        - Senior Program Committee Member (SPC) / Area Chair (AC) of AAMAS (2024 - 2025) [[proof]](http://2025.prcv.cn/Committee/) [[proof]](https://aamas2025.org/index.php/conference/organization/distinguished-pc-spc-members/)
+        - Senior Program Committee Member (SPC) / Area Chair (AC) of AAMAS (2024 - 2025) [[proof]](https://aamas2025.org/index.php/conference/organization/distinguished-pc-spc-members/)
         - Area Chair (AC) of Pattern Recognition and Computer Vision (PRCV) (2025 - ) [[proof]](http://2025.prcv.cn/Committee/)
-        - Industry Program Chair of ICME (2026) [[proof]](https://2026.ieeeicme.org/organizing-committee/)
+        - Industry Program Chair of IEEE International Conference on Multimedia and Expo (ICME) 2026 [[proof]](https://2026.ieeeicme.org/organizing-committee/)
         - Program Committee Members (PC) / Conference Reviewer of RSS (2024 - 2025)
         - Program Committee Members (PC) / Conference Reviewer of NeurIPS (2021 - 2025)
         - Program Committee Members (PC) / Conference Reviewer of ICLR (2021 - 2025)
@@ -112,7 +112,7 @@ sections:
         - Program Committee Members (PC) / Conference Reviewer of AAAI (2021 - 2025)
         - Program Committee Members (PC) / Conference Reviewer of ICRA (2024 - 2025)
         - Program Committee Members (PC) / Conference Reviewer of ECAI (2023 - 2025)
-        - Journal Reviewer: IEEE Trans. Cybernetics, IEEE Trans. TNNLS, IEEE Trans. TETCI, IEEE Trans. Intelligent Vehicles, Pattern Recognition.
+        - Journal Reviewer: IEEE Trans. PAMI, IEEE Trans. Cybernetics, IEEE Trans. TNNLS, IEEE Trans. TETCI, IEEE Trans. Intelligent Vehicles, Pattern Recognition.
     design:
       columns: '2'
   - block: experience

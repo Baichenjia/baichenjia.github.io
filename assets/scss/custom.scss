@@ -26,3 +26,12 @@
 .card-body-custom{
   padding:1.0rem !important;
 }
+
+#publication .row.justify-content-center{
+  justify-content: flex-start !important;
+}
+
+#publication .section-heading{
+  text-align: left !important;
+  align-items: flex-start !important;
+}

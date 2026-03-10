@@ -11,9 +11,10 @@ authors:
 author_notes:
 date: "2026-03-04T00:00:00Z"
 doi: ""
-draft: false
+
 weight: 67
 publishDate: "2026-03-04T00:00:00Z"
+
 publication_types: ["preprint"]
 publication: "arXiv preprint"
 publication_short: ""
