@@ -102,9 +102,9 @@ sections:
     content:
       title: Service
       text: |
+        - Industry Program Chair of IEEE International Conference on Multimedia and Expo (ICME) 2026 [[proof]](https://2026.ieeeicme.org/organizing-committee/)
         - Senior Program Committee Member (SPC) / Area Chair (AC) of AAMAS (2024 - 2025) [[proof]](https://aamas2025.org/index.php/conference/organization/distinguished-pc-spc-members/)
         - Area Chair (AC) of Pattern Recognition and Computer Vision (PRCV) (2025 - ) [[proof]](http://2025.prcv.cn/Committee/)
-        - Industry Program Chair of IEEE International Conference on Multimedia and Expo (ICME) 2026 [[proof]](https://2026.ieeeicme.org/organizing-committee/)
         - Program Committee Members (PC) / Conference Reviewer of RSS (2024 - 2025)
         - Program Committee Members (PC) / Conference Reviewer of NeurIPS (2021 - 2025)
         - Program Committee Members (PC) / Conference Reviewer of ICLR (2021 - 2025)
