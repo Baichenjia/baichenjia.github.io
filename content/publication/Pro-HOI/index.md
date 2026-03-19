@@ -25,7 +25,7 @@ url_pdf: https://arxiv.org/abs/2603.01126
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://pro-hoi.github.io/'
 url_slides: ''
 url_source: ''
 url_video: ''
