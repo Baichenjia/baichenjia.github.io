@@ -74,6 +74,7 @@ sections:
     content:
       title: Talks
       text: |
+        - 中国具身智能大会: [具身操作与空间智能前沿论坛](https://mp.weixin.qq.com/s/adbrjyf_5y6ka18KD1NQGA). 人工智能学会 2026.
         - 光大证券年度投资策略会: [重构人类生产力,机器人点亮未来](/slides/guangda.jpg). 光大证券 2025.
         - 半导体无线网络芯片技术论坛: [具身智能大小脑协同](/slides/huawei.jpg). 华为技术有限公司 2025.
         - 清华大学深圳国际研究生院: [SIGS专题讲座](https://mp.weixin.qq.com/s/gnavVQXWqUY511p51BgtBA). 清华大学 2025.
