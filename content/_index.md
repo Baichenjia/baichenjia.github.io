@@ -48,6 +48,103 @@ sections:
     design:
       columns: '1'
       view: compact
+  - block: custom
+    id: project
+    content:
+      title: Project
+      html: |
+        <div class="embodied-projects">
+          <div class="section-title">具身大脑</div>
+          <div class="embodied-row">
+            <div class="embodied-item" style="padding:0;">
+              <video data-src="/assets/prts/prts.mp4" poster="/assets/prts/prts.jpg" loop muted playsinline style="width:100%;height:100%;object-fit:cover;position:absolute;z-index:1;background:#000;"></video>
+              <div style="position:relative;z-index:2;padding:2rem;color:#fff;text-shadow:0 2px 8px rgba(0,0,0,0.7);background:rgba(0,0,0,0.3);border-radius:16px;max-width:90%;margin:auto;text-align:center;">
+                <a href="https://rhodes-team-prts.github.io/" target="_blank" style="color:#fff;text-decoration:none;font-size:1.5rem;font-weight:bold;">
+                  PRTS<br>
+                  <span style="font-size:1.1rem;font-weight:normal;">新一代强化学习原生的机器人视觉-语言-动作(VLA)模型</span>
+                </a>
+              </div>
+            </div>
+            <div class="embodied-item" style="padding:0;">
+              <video data-src="/assets/prts/gn0.mp4" poster="/assets/prts/gn0.jpg" loop muted playsinline style="width:100%;height:100%;object-fit:cover;position:absolute;z-index:1;background:#000;"></video>
+              <div style="position:relative;z-index:2;padding:2rem;color:#fff;text-shadow:0 2px 8px rgba(0,0,0,0.7);background:rgba(0,0,0,0.3);border-radius:16px;max-width:90%;margin:auto;text-align:center;">
+                <a href="https://telehuman-gn0.github.io/" target="_blank" style="color:#fff;text-decoration:none;font-size:1.5rem;font-weight:bold;">
+                  GN0<br>
+                  <span style="font-size:1.1rem;font-weight:normal;">首个涵盖"数据-仿真-模型-评测"的全链路的具身导航框架 GN0</span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="section-title">具身小脑</div>
+          <div class="embodied-row">
+            <div class="embodied-item" style="padding:0;">
+              <video data-src="/assets/prts/kungfubot.mp4" poster="/assets/prts/kungfubot.jpg" loop muted playsinline style="width:100%;height:100%;object-fit:cover;position:absolute;z-index:1;background:#000;"></video>
+              <div style="position:relative;z-index:2;padding:2rem;color:#fff;text-shadow:0 2px 8px rgba(0,0,0,0.7);background:rgba(0,0,0,0.3);border-radius:16px;max-width:90%;margin:auto;text-align:center;">
+                <a href="https://kungfu-bot.github.io/" target="_blank" style="color:#fff;text-decoration:none;font-size:1.5rem;font-weight:bold;">
+                  KungfuBot<br>
+                  <span style="font-size:1.1rem;font-weight:normal;">首个开源的人类视频到人形机器人全身控制框架</span>
+                </a>
+              </div>
+            </div>
+            <div class="embodied-item" style="padding:0;">
+              <video data-src="/assets/prts/textop.mp4" poster="/assets/prts/textop.jpg" loop muted playsinline style="width:100%;height:100%;object-fit:cover;position:absolute;z-index:1;background:#000;"></video>
+              <div style="position:relative;z-index:2;padding:2rem;color:#fff;text-shadow:0 2px 8px rgba(0,0,0,0.7);background:rgba(0,0,0,0.3);border-radius:16px;max-width:90%;margin:auto;text-align:center;">
+                <a href="https://text-op.github.io/" target="_blank" style="color:#fff;text-decoration:none;font-size:1.5rem;font-weight:bold;">
+                  TextOp<br>
+                  <span style="font-size:1.1rem;font-weight:normal;">首个文本驱动的人形机器人运动框架</span>
+                </a>
+              </div>
+            </div>
+            <div class="embodied-item" style="padding:0;">
+              <video data-src="/assets/prts/husky.mp4" poster="/assets/prts/husky.jpg" loop muted playsinline style="width:100%;height:100%;object-fit:cover;position:absolute;z-index:1;background:#000;"></video>
+              <div style="position:relative;z-index:2;padding:2rem;color:#fff;text-shadow:0 2px 8px rgba(0,0,0,0.7);background:rgba(0,0,0,0.3);border-radius:16px;max-width:90%;margin:auto;text-align:center;">
+                <a href="https://husky-humanoid.github.io/" target="_blank" style="color:#fff;text-decoration:none;font-size:1.5rem;font-weight:bold;">
+                  Husky<br>
+                  <span style="font-size:1.1rem;font-weight:normal;">首个人形机器人滑板运动突破</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <script>
+          function setupEmbodiedVideoLazy() {
+            const items = document.querySelectorAll('.embodied-item');
+            items.forEach(item => {
+              const video = item.querySelector('video');
+              if (!video) return;
+              
+              // 鼠标移入时才设置 src 加载并播放
+              item.addEventListener('mouseenter', () => {
+                if (!video.getAttribute('src')) {
+                  video.setAttribute('src', video.getAttribute('data-src'));
+                  video.load();
+                }
+                var playPromise = video.play();
+                if (playPromise !== undefined) {
+                  playPromise.catch(error => {
+                    // console.log("Auto-play prevented", error);
+                  });
+                }
+              });
+            });
+          }
+          if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', setupEmbodiedVideoLazy);
+          } else {
+            setupEmbodiedVideoLazy();
+          }
+        </script>
+        <style>
+        .col-12 .embodied-projects { padding: 0; margin: 0; max-width: 100%; }
+        .embodied-projects { max-width: 100%; margin: 0; padding: 0; }
+        .section-title { font-size: 1.3rem; font-weight: bold; margin: 0 0 1rem 0; letter-spacing:0.1em; }
+        .embodied-row { display: flex; flex-wrap: wrap; gap: 2rem; margin-bottom: 2rem; }
+        .embodied-item { flex: 1 1 300px; min-width: 300px; min-height: 320px; background: #f7f7f7; border-radius: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); position: relative; overflow: hidden; display: flex; align-items: center; justify-content: center; text-align: center; }
+        .embodied-item a:hover { opacity: 0.8; }
+        @media (max-width: 900px) { .embodied-row { flex-direction: column; gap: 1rem; } }
+        </style>
+    design:
+      columns: '1'
   - block: collection
     id: publication
     content:
@@ -74,7 +171,7 @@ sections:
     content:
       title: Talks
       text: |
-        - 中国具身智能大会: [具身操作与空间智能前沿论坛](https://mp.weixin.qq.com/s/adbrjyf_5y6ka18KD1NQGA). 人工智能学会 2026.
+        - 中国具身智能大会：[迈向跨本体泛化的通用操作模型](https://mp.weixin.qq.com/s/adbrjyf_5y6ka18KD1NQGA). 中国人工智能学会. 2026
         - 光大证券年度投资策略会: [重构人类生产力,机器人点亮未来](/slides/guangda.jpg). 光大证券 2025.
         - 半导体无线网络芯片技术论坛: [具身智能大小脑协同](/slides/huawei.jpg). 华为技术有限公司 2025.
         - 清华大学深圳国际研究生院: [SIGS专题讲座](https://mp.weixin.qq.com/s/gnavVQXWqUY511p51BgtBA). 清华大学 2025.
@@ -103,9 +200,9 @@ sections:
     content:
       title: Service
       text: |
-        - Industry Program Chair of IEEE International Conference on Multimedia and Expo (ICME) 2026 [[proof]](https://2026.ieeeicme.org/organizing-committee/)
         - Senior Program Committee Member (SPC) / Area Chair (AC) of AAMAS (2024 - 2025) [[proof]](https://aamas2025.org/index.php/conference/organization/distinguished-pc-spc-members/)
         - Area Chair (AC) of Pattern Recognition and Computer Vision (PRCV) (2025 - ) [[proof]](http://2025.prcv.cn/Committee/)
+        - Industry Program Chair of IEEE International Conference on Multimedia and Expo (ICME) 2026 [[proof]](https://2026.ieeeicme.org/organizing-committee/)
         - Program Committee Members (PC) / Conference Reviewer of RSS (2024 - 2025)
         - Program Committee Members (PC) / Conference Reviewer of NeurIPS (2021 - 2025)
         - Program Committee Members (PC) / Conference Reviewer of ICLR (2021 - 2025)
@@ -124,7 +221,7 @@ sections:
       # Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       items:
-        - title: Research Scientist
+        - title: Research Scientist, Lead of Embodied AI Team
           company: TeleAI, China Telecom
           company_url: ''
           company_logo: ''
@@ -152,6 +249,6 @@ sections:
           location: China
           date_start: '2017-06-01'
           date_end: '2022-09-01'
-      design:
-        columns: '2'
+    design:
+      columns: '2'
 ---
