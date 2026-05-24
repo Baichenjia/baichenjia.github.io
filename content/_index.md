@@ -171,6 +171,7 @@ sections:
     content:
       title: Talks
       text: |
+        - 具身决策前沿：[从强化学习到具身大模型](https://mp.weixin.qq.com/s/Ts-Lic2b9sJzwwKFd0wK6A?scene=1&click_id=8)[PDF](/uploads/ccf-yef-forum-certificate.pdf). 中国计算机学会. 2026
         - 中国具身智能大会：[迈向跨本体泛化的通用操作模型](https://mp.weixin.qq.com/s/adbrjyf_5y6ka18KD1NQGA). 中国人工智能学会. 2026
         - 光大证券年度投资策略会: [重构人类生产力,机器人点亮未来](/slides/guangda.jpg). 光大证券 2025.
         - 半导体无线网络芯片技术论坛: [具身智能大小脑协同](/slides/huawei.jpg). 华为技术有限公司 2025.

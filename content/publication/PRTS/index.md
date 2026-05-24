@@ -17,7 +17,7 @@ author_notes:
 date: "2026-01-01T00:00:00Z"
 doi: ""
 
-weight: 73
+weight: 80
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-03-19T00:00:00Z"
@@ -42,15 +42,15 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/abs/2604.27472'
+url_code: 'https://github.com/TeleHuman/PRTS'
 url_dataset: 'https://huggingface.co/datasets/TeleEmbodied/PRTS-PostTrain-Data'
 url_poster: ''
 url_project: 'https://rhodes-team-prts.github.io/'
 url_slides: ''
 url_source: ''
-url_video: ''
-url_wechat: ''
+url_video: 'https://mp.weixin.qq.com/s/e2Ncs5LEum1pAnbdxVKIAQ'
+url_wechat: 'https://mp.weixin.qq.com/s/FekrvirpwV9dAMYO-5Y3Cw'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
