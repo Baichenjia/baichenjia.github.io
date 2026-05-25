@@ -16,7 +16,7 @@ weight: 65
 publishDate: "2026-02-03T00:00:00Z"
 
 publication_types: ["conference"]
-publication: In *Robotics: Science and Systems (**RSS**)*, 2026
+publication: "In *Robotics: Science and Systems (**RSS**)*, 2026"
 
 publication_short: ""
 
