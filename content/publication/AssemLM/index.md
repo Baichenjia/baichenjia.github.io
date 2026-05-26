@@ -7,7 +7,7 @@ authors:
   - Jicong Ao
   - Shuang Qiu
   - Yu-Gang Jiang
-  - Chenjia Bai
+  - Chenjia Bai*
 author_notes:
 date: "2026-04-10T00:00:00Z"
 doi: ""
