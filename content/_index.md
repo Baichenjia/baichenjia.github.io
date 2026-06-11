@@ -171,6 +171,7 @@ sections:
     content:
       title: Talks
       text: |
+        - 可穿戴机器人与人形机器人国家标准专题研讨会：[人形机器人国家标准制定](/uploads/humanoid-robot-standard-development.pdf). 全国机器人标准化技术委员会. 2026
         - 具身决策前沿：[从强化学习到具身大模型](https://mp.weixin.qq.com/s/Ts-Lic2b9sJzwwKFd0wK6A?scene=1&click_id=8)[PDF](/uploads/ccf-yef-forum-certificate.pdf). 中国计算机学会. 2026
         - 中国具身智能大会：[迈向跨本体泛化的通用操作模型](https://mp.weixin.qq.com/s/adbrjyf_5y6ka18KD1NQGA). 中国人工智能学会. 2026
         - 光大证券年度投资策略会: [重构人类生产力,机器人点亮未来](/slides/guangda.jpg). 光大证券 2025.
@@ -201,6 +202,7 @@ sections:
     content:
       title: Service
       text: |
+        - Area Chair (AC) of Neural Information Processing Systems (NeurIPS) (2026-) [[proof]](/uploads/neurips-2026-area-chair-proof.pdf)
         - Senior Program Committee Member (SPC) / Area Chair (AC) of AAMAS (2024 - 2025) [[proof]](https://aamas2025.org/index.php/conference/organization/distinguished-pc-spc-members/)
         - Area Chair (AC) of Pattern Recognition and Computer Vision (PRCV) (2025 - ) [[proof]](http://2025.prcv.cn/Committee/)
         - Industry Program Chair of IEEE International Conference on Multimedia and Expo (ICME) 2026 [[proof]](https://2026.ieeeicme.org/organizing-committee/)
