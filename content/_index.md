@@ -202,7 +202,7 @@ sections:
     content:
       title: Service
       text: |
-        - Area Chair (AC) of Neural Information Processing Systems (NeurIPS) (2026-) [[proof]](/uploads/neurips-2026-area-chair-proof.pdf)
+        - Area Chair (AC) of Neural Information Processing Systems (NeurIPS) (2026-) [[proof]](/uploads/neurips-2026-area-chair-invitation-original.pdf)
         - Senior Program Committee Member (SPC) / Area Chair (AC) of AAMAS (2024 - 2025) [[proof]](https://aamas2025.org/index.php/conference/organization/distinguished-pc-spc-members/)
         - Area Chair (AC) of Pattern Recognition and Computer Vision (PRCV) (2025 - ) [[proof]](http://2025.prcv.cn/Committee/)
         - Industry Program Chair of IEEE International Conference on Multimedia and Expo (ICME) 2026 [[proof]](https://2026.ieeeicme.org/organizing-committee/)
