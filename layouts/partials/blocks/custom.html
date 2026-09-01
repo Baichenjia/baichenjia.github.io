@@ -1,0 +1,15 @@
+{{/* Hugo Go template 推荐嵌套写法，避免 else if 语法错误 */}}
+{{ $block := .wcBlock | default . }}
+{{ with $block.content.html }}
+  {{ . | safeHTML }}
+{{ else }}
+  {{ with $block.content.body }}
+    {{ . | safeHTML }}
+  {{ else }}
+    {{ with $block.content.markdown }}
+      {{ . | safeHTML }}
+    {{ else }}
+      <div style="color:red">[custom block: no content found]</div>
+    {{ end }}
+  {{ end }}
+{{ end }}

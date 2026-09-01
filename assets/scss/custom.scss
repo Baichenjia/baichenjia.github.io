@@ -1,0 +1,47 @@
+/* 缩小 Service 区块字体 */
+#service ul,
+#service ol {
+  font-size: 0.95rem;
+}
+/* 缩小 Talks 区块字体 */
+#talks ul,
+#talks ol {
+  font-size: 0.88rem;
+}
+.home-padding{
+  padding: 40px 0;
+}
+
+.article-title-custom{
+  font-size: 1.0rem !important;
+  line-height: normal !important;
+}
+
+.line-height-custom{
+  line-height: normal !important;
+}
+
+.author-custom{
+  margin-top: 0px !important;
+}
+
+.publication-custom{
+  margin-bottom: 0px !important;
+}
+
+.card-custom{
+  margin-bottom: 0px !important;
+}
+
+.card-body-custom{
+  padding:1.0rem !important;
+}
+
+#publication .row.justify-content-center{
+  justify-content: flex-start !important;
+}
+
+#publication .section-heading{
+  text-align: left !important;
+  align-items: flex-start !important;
+}
