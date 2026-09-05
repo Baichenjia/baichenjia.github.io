@@ -12,16 +12,16 @@ author_notes:
 date: "2026-02-12T00:00:00Z"
 doi: ""
 
-weight: 68
+weight: 95
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-02-12T00:00:00Z"
 
 # Publication type.
-publication_types: ["preprint"]
+publication_types: ["conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
+publication: "In *Annual Conference on Robot Learning (**CoRL**)*, 2026"
 publication_short: ""
 
 abstract: "Recent advances in humanoid whole-body motion tracking have enabled the execution of diverse and highly coordinated motions on real hardware. However, existing controllers are commonly driven either by predefined motion trajectories, which offer limited flexibility when user intent changes, or by continuous human teleoperation, which requires constant human involvement and limits autonomy. This work addresses the problem of how to drive a universal humanoid controller in a real-time and interactive manner. We present TextOp, a real-time text-driven humanoid motion generation and control framework that supports streaming language commands and on-the-fly instruction modification during execution. TextOp adopts a two-level architecture in which a high-level autoregressive motion diffusion model continuously generates short-horizon kinematic trajectories conditioned on the current text input, while a low-level motion tracking policy executes these trajectories on a physical humanoid robot. By bridging interactive motion generation with robust whole-body control, TextOp unlocks free-form intent expression and enables smooth transitions across multiple challenging behaviors such as dancing and jumping, within a single continuous motion execution. Extensive real-robot experiments and offline evaluations demonstrate instant responsiveness, smooth whole-body motion, and precise control. The project page and the open-source code are available at https://text-op.github.io/"
@@ -54,4 +54,3 @@ image:
 projects: []
 slides: ""
 ---
-

@@ -17,7 +17,7 @@ author_notes:
 date: "2026-01-01T00:00:00Z"
 doi: ""
 
-weight: 82
+weight: 99
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-03-19T00:00:00Z"
@@ -28,7 +28,7 @@ publishDate: "2023-03-19T00:00:00Z"
 publication_types: ["conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Review. 2026"
+publication: "In *Annual Conference on Robot Learning (**CoRL**)*, 2026"
 publication_short: ""
 
 abstract: "Vision-Language-Action (VLA) models have advanced robotic control through dual-system architectures that separate semantic planning from action generation. However, existing approaches predominantly frame policy learning as supervised action prediction, overlooking the fundamental nature of robot learning as a goal-reaching process that requires understanding temporal task progress. We present PRTS (Primitive Reasoning and Tasking System), a foundation model that reformulates VLA pretraining through the lens of Goal-Conditioned Reinforcement Learning. By treating language instructions as goals and employing contrastive representation learning, PRTS learns a unified embedding space where state-goal alignment explicitly encodes log-discounted state occupancy that measures the probability of reaching goal starting from the current observation, enabling quantitative assessment of physical feasibility beyond superficial semantic matching. This paradigm equips the high-level planning system with intrinsic value awareness to evaluate candidate sub-tasks and guide low-level control optimization, bridging the gap between abstract reasoning and goal-conditioned action. Pretrained on over 167.8 billion tokens of diverse robotic trajectories, PRTS achieves state-of-the-art performance across standard simulation benchmarks and a comprehensive real-world evaluation suite spanning complex long-horizon manipulation tasks, validating that goal-reaching representation learning significantly enhances robustness and success rates in embodied AI systems."
