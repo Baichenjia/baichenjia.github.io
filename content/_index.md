@@ -171,7 +171,7 @@ sections:
     content:
       title: Talks
       text: |
-        - CSIG图像图形中国行（青岛城市学院站）：[自我进化的具身模型：从价值认知、全身控制到交互学习闭环](https://m.csig.org.cn/22/202609/60118.html). 中国图像图形学会. 2026
+        - CSIG图像图形中国行（青岛城市学院站）：[自我进化的具身模型](https://m.csig.org.cn/22/202609/60118.html). 中国图像图形学会. 2026
         - 可穿戴机器人与人形机器人国家标准专题研讨会：[人形机器人国家标准制定](/uploads/humanoid-robot-standard-development.pdf). 全国机器人标准化技术委员会. 2026
         - 具身决策前沿：[从强化学习到具身大模型](https://mp.weixin.qq.com/s/Ts-Lic2b9sJzwwKFd0wK6A?scene=1&click_id=8)[PDF](/uploads/ccf-yef-forum-certificate.pdf). 中国计算机学会. 2026
         - 中国具身智能大会：[迈向跨本体泛化的通用操作模型](https://mp.weixin.qq.com/s/adbrjyf_5y6ka18KD1NQGA). 中国人工智能学会. 2026
