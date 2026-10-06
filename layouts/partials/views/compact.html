@@ -76,6 +76,11 @@
   </div>
   <div class="ml-3">
     {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
+    {{ with $item.Params.thumbnail }}
+      {{ with $item.Resources.GetMatch . }}
+        {{ $resource = . }}
+      {{ end }}
+    {{ end }}
     {{ with $resource }}
     {{ $image := .Resize "1000x" }}
     {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
