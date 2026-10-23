@@ -37,7 +37,7 @@ url_project: "https://nexus-humanoid.github.io/"
 url_slides: ""
 url_source: ""
 url_video: ""
-url_wechat: ""
+url_wechat: "https://mp.weixin.qq.com/s/RFJhV-KGK5BWUD4HVqyzSw"
 
 image:
   caption: "Image credit: NEXUS authors"
