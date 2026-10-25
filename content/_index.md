@@ -172,7 +172,7 @@ sections:
       title: Talks
       text: |
         - 中国计算机大会（CNCC 2026）Tutorial：[大规模强化学习：从理论基础到大模型与具身智能应用](https://ccf.org.cn/CNCC2026/news_d_4122). 中国计算机学会. 2026
-        - [迈向自主进化的人形机器人全身模型](https://mp.weixin.qq.com/s/0wjRvrWtPeWTOvir8C7IJA). 2026
+        - CCF中国智能机器人学术年会：[迈向自主进化的人形机器人全身模型](https://mp.weixin.qq.com/s/0wjRvrWtPeWTOvir8C7IJA). 中国计算机学会. 2026
         - CSIG图像图形中国行（青岛城市学院站）：[自我进化的具身模型](https://m.csig.org.cn/22/202609/60118.html). 中国图像图形学会. 2026
         - 可穿戴机器人与人形机器人国家标准专题研讨会：[人形机器人国家标准制定](/uploads/humanoid-robot-standard-development.pdf). 全国机器人标准化技术委员会. 2026
         - 具身决策前沿：[从强化学习到具身大模型](https://mp.weixin.qq.com/s/Ts-Lic2b9sJzwwKFd0wK6A?scene=1&click_id=8)[PDF](/uploads/ccf-yef-forum-certificate.pdf). 中国计算机学会. 2026
