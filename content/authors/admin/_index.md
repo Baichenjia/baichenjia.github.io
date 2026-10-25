@@ -99,13 +99,13 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:baicj@chinatelecom.cn
+    link: mailto:baichenjia255@gmail.com
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=Rm_1y2kAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/TeleHuman/
+    link: https://github.com/Gamma-Robot
   - icon: zhihu
     icon_pack: fab
     link: https://www.zhihu.com/column/RL-HIT
