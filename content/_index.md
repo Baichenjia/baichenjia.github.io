@@ -172,6 +172,7 @@ sections:
       title: Talks
       text: |
         - 中国计算机大会（CNCC 2026）Tutorial：[大规模强化学习：从理论基础到大模型与具身智能应用](https://ccf.org.cn/CNCC2026/news_d_4122). 中国计算机学会. 2026
+        - [迈向自主进化的人形机器人全身模型](https://mp.weixin.qq.com/s/0wjRvrWtPeWTOvir8C7IJA). 2026
         - CSIG图像图形中国行（青岛城市学院站）：[自我进化的具身模型](https://m.csig.org.cn/22/202609/60118.html). 中国图像图形学会. 2026
         - 可穿戴机器人与人形机器人国家标准专题研讨会：[人形机器人国家标准制定](/uploads/humanoid-robot-standard-development.pdf). 全国机器人标准化技术委员会. 2026
         - 具身决策前沿：[从强化学习到具身大模型](https://mp.weixin.qq.com/s/Ts-Lic2b9sJzwwKFd0wK6A?scene=1&click_id=8)[PDF](/uploads/ccf-yef-forum-certificate.pdf). 中国计算机学会. 2026
@@ -204,17 +205,18 @@ sections:
     content:
       title: Service
       text: |
+        - Area Chair (AC) of International Conference on Machine Learning (ICML) (2027-) [[proof]](/uploads/icml-2027-area-chair-invitation-original.pdf)
         - Area Chair (AC) of Neural Information Processing Systems (NeurIPS) (2026-) [[proof]](/uploads/neurips-2026-area-chair-invitation-original.pdf)
         - Senior Program Committee Member (SPC) / Area Chair (AC) of AAMAS (2024 - 2025) [[proof]](https://aamas2025.org/index.php/conference/organization/distinguished-pc-spc-members/)
         - Area Chair (AC) of Pattern Recognition and Computer Vision (PRCV) (2025 - ) [[proof]](http://2025.prcv.cn/Committee/)
         - Industry Program Chair of IEEE International Conference on Multimedia and Expo (ICME) 2026 [[proof]](https://2026.ieeeicme.org/organizing-committee/)
-        - Program Committee Members (PC) / Conference Reviewer of RSS (2024 - 2025)
-        - Program Committee Members (PC) / Conference Reviewer of NeurIPS (2021 - 2025)
-        - Program Committee Members (PC) / Conference Reviewer of ICLR (2021 - 2025)
-        - Program Committee Members (PC) / Conference Reviewer of ICML (2022 - 2025)
-        - Program Committee Members (PC) / Conference Reviewer of AAAI (2021 - 2025)
-        - Program Committee Members (PC) / Conference Reviewer of ICRA (2024 - 2025)
-        - Program Committee Members (PC) / Conference Reviewer of ECAI (2023 - 2025)
+        - Program Committee Members (PC) / Conference Reviewer of RSS (2024 - Present)
+        - Program Committee Members (PC) / Conference Reviewer of NeurIPS (2021 - Present)
+        - Program Committee Members (PC) / Conference Reviewer of ICLR (2021 - Present)
+        - Program Committee Members (PC) / Conference Reviewer of ICML (2022 - Present)
+        - Program Committee Members (PC) / Conference Reviewer of AAAI (2021 - Present)
+        - Program Committee Members (PC) / Conference Reviewer of ICRA (2024 - Present)
+        - Program Committee Members (PC) / Conference Reviewer of ECAI (2023 - Present)
         - Journal Reviewer: IEEE Trans. PAMI, IEEE Trans. Cybernetics, IEEE Trans. TNNLS, IEEE Trans. TETCI, IEEE Trans. Intelligent Vehicles, Pattern Recognition.
     design:
       columns: '2'
@@ -226,6 +228,13 @@ sections:
       # Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       items:
+        - title: Founder & CEO
+          company: Gamma Robotics（伽马智能）
+          company_url: ''
+          company_logo: ''
+          location: China
+          date_start: '2026-01-01'
+          date_end: ''
         - title: Principal Research Scientist, Lead of Embodied AI Team
           company: TeleAI, China Telecom
           company_url: ''
